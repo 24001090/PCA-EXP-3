@@ -378,7 +378,7 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-<img width="762" height="107" alt="image" src="https://github.com/user-attachments/assets/4503db22-1b72-4a25-a7e6-8985d976500c" />
+<img width="867" height="107" alt="image" src="https://github.com/user-attachments/assets/fde5f86d-abd7-4742-b83f-3765f3a4b90b" />
 
 
 ## RESULT:
